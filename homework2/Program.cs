@@ -39,7 +39,7 @@ int day = Convert.ToInt32(Console.ReadLine());
 
 if (day == 6 || day == 7)
 {
-    Console.WriteLine($" Указанный день - {day} - является выходным.");
+    Console.WriteLine($" Указанныйень под номером - {day} - является выходным.");
 }
 else
 {
