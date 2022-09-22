@@ -1,0 +1,15 @@
+D:\Projects\dot_net\nomework6\obj\Debug\net6.0\nomework6.csproj.AssemblyReference.cache
+D:\Projects\dot_net\nomework6\obj\Debug\net6.0\nomework6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dot_net\nomework6\obj\Debug\net6.0\nomework6.AssemblyInfoInputs.cache
+D:\Projects\dot_net\nomework6\obj\Debug\net6.0\nomework6.AssemblyInfo.cs
+D:\Projects\dot_net\nomework6\obj\Debug\net6.0\nomework6.csproj.CoreCompileInputs.cache
+D:\Projects\dot_net\nomework6\bin\Debug\net6.0\nomework6.exe
+D:\Projects\dot_net\nomework6\bin\Debug\net6.0\nomework6.deps.json
+D:\Projects\dot_net\nomework6\bin\Debug\net6.0\nomework6.runtimeconfig.json
+D:\Projects\dot_net\nomework6\bin\Debug\net6.0\nomework6.dll
+D:\Projects\dot_net\nomework6\bin\Debug\net6.0\nomework6.pdb
+D:\Projects\dot_net\nomework6\obj\Debug\net6.0\nomework6.dll
+D:\Projects\dot_net\nomework6\obj\Debug\net6.0\refint\nomework6.dll
+D:\Projects\dot_net\nomework6\obj\Debug\net6.0\nomework6.pdb
+D:\Projects\dot_net\nomework6\obj\Debug\net6.0\nomework6.genruntimeconfig.cache
+D:\Projects\dot_net\nomework6\obj\Debug\net6.0\ref\nomework6.dll
